@@ -1,5 +1,4 @@
 # nexusare
-# nexusare
 
 Proyecto de videojuego NEXUS.
 
